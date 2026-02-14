@@ -12,3 +12,8 @@
 - Primary report (AP): https://apnews.com/article/rfk-jr-kennedy-cdc-covid-health-trust-7ef5f0e2c6f91ce6d908cb58f9e2fcb2
 - Poll references cited in report: KFF, Gallup, Annenberg Public Policy Center
 - Post context: https://old.reddit.com/r/news/comments/1r4p039/trust_in_us_health_agencies_is_eroding_under_rfk/
+
+### `kasipa/kff_federal_health_agency_confidence_jan2026.csv`
+- Primary source (full wave topline): https://files.kff.org/attachment/topline-kff-health-tracking-poll-jan-2026.pdf
+- Context explainer: https://www.kff.org/health-information-trust/trust-in-cdc-and-views-of-federal-childhood-vaccine-schedule-changes/
+- This file includes the full “confidence in federal health agencies responsibilities” question battery reported for Jan 2026.
