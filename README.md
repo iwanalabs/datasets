@@ -31,3 +31,8 @@
   - ICE BofA US High Yield OAS (FRED): https://fred.stlouisfed.org/series/BAMLH0A0HYM2
 - Post context: https://old.reddit.com/r/news/comments/1r4lflq/ailed_software_selloff_may_pose_risk_for_15/
 - Notes: derived 21-trading-day windows from daily data. Includes Nasdaq 21d return and simultaneous credit spread changes to classify risk-off vs mixed vs risk-on periods.
+
+### `kasipa/ai_credit_regime_share_by_quarter_2023_2026.csv`
+- Derived from: `kasipa/ai_selloff_credit_stress_windows_2023_2026.csv`
+- Post context: https://old.reddit.com/r/news/comments/1r4lflq/ailed_software_selloff_may_pose_risk_for_15/
+- Notes: quarterly share (%) of windows classified as Risk-off stress, Risk-on relief, and Mixed/neutral.
