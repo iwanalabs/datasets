@@ -1,0 +1,9 @@
+metric,series,period,value,unit,source_note
+Trust in CDC vaccine information (all adults),KFF,2026,47,percent,"AP reports KFF value after one year under RFK Jr"
+Trust in CDC vaccine information (all adults),KFF,2025,57,percent,"AP reports ~10pp higher at start of Trump's second term"
+Trust in CDC vaccine information (Democrats),KFF,2026,55,percent,"AP reports Democrats at 55%"
+Trust in CDC vaccine information (Democrats),KFF,2025-09,64,percent,"AP reports Democrats down 9pp since September"
+CDC doing good/excellent job,Gallup,2024,40,percent,"AP cites Gallup 2024"
+CDC doing good/excellent job,Gallup,2025,31,percent,"AP cites Gallup last year"
+Likelihood to recommend MMR vaccine (very/somewhat likely),Annenberg,2024-11,90,percent,"AP cites Nov 2024 Annenberg"
+Likelihood to recommend MMR vaccine (very/somewhat likely),Annenberg,2025-08,82,percent,"AP cites Aug 2025 Annenberg"
