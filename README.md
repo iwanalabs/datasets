@@ -17,3 +17,9 @@
 - Primary source (full wave topline): https://files.kff.org/attachment/topline-kff-health-tracking-poll-jan-2026.pdf
 - Context explainer: https://www.kff.org/health-information-trust/trust-in-cdc-and-views-of-federal-childhood-vaccine-schedule-changes/
 - This file includes the full “confidence in federal health agencies responsibilities” question battery reported for Jan 2026.
+
+### `kasipa/heineken_headcount_revenue_productivity_2015_2026.csv`
+- Revenue series source: https://www.macrotrends.net/stocks/charts/HEINY/heineken/revenue
+- Employee count source: https://www.macrotrends.net/stocks/charts/HEINY/heineken/number-of-employees
+- Post context: https://old.reddit.com/r/technology/comments/1r4p4hr/heineken_to_slash_up_to_6000_jobs_in_ai/
+- Notes: historical rows use annual reported values (2015–2024). 2026 row is an event/scenario marker reflecting the announced "up to 6,000 jobs" cut.
