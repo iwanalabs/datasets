@@ -23,3 +23,11 @@
 - Employee count source: https://www.macrotrends.net/stocks/charts/HEINY/heineken/number-of-employees
 - Post context: https://old.reddit.com/r/technology/comments/1r4p4hr/heineken_to_slash_up_to_6000_jobs_in_ai/
 - Notes: historical rows use annual reported values (2015–2024). 2026 row is an event/scenario marker reflecting the announced "up to 6,000 jobs" cut.
+
+### `kasipa/ai_selloff_credit_stress_windows_2023_2026.csv`
+- Base market/credit series:
+  - Nasdaq Composite (FRED): https://fred.stlouisfed.org/series/NASDAQCOM
+  - Baa minus 10Y spread (FRED): https://fred.stlouisfed.org/series/BAA10Y
+  - ICE BofA US High Yield OAS (FRED): https://fred.stlouisfed.org/series/BAMLH0A0HYM2
+- Post context: https://old.reddit.com/r/news/comments/1r4lflq/ailed_software_selloff_may_pose_risk_for_15/
+- Notes: derived 21-trading-day windows from daily data. Includes Nasdaq 21d return and simultaneous credit spread changes to classify risk-off vs mixed vs risk-on periods.
