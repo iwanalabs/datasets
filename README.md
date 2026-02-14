@@ -15,3 +15,7 @@
 ### `kasipa/deportation_costs_context.csv`
 - Primary source: https://www.theguardian.com/us-news/2026/feb/13/us-paid-32m-to-five-countries-to-accept-about-300-deportees-report-shows
 - Additional context (immigration stats): https://ohss.dhs.gov/topics/immigration/yearbook
+
+### `kasipa/cdc_hiv_std_cuts_context.csv`
+- Primary source: https://www.denver7.com/politics/the-president/trumps-cdc-is-canceling-600m-in-hiv-and-std-funds-to-four-democrat-led-states
+- Post context: https://old.reddit.com/r/news/comments/1r3qjln/trumps_cdc_is_canceling_600m_in_hiv_and_std_funds/
