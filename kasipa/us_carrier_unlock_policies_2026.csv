@@ -1,6 +1,0 @@
-carrier,plan_type,min_days_active,payment_requirement,account_good_standing_required,auto_unlock,extra_delay_days,notes,source_url
-Verizon,Postpaid,0,"Full retail OR financing paid in full",Yes,Yes,35,"If payoff done online/app or with Verizon gift card, unlock delayed 35 days for fraud verification",https://www.verizon.com/about/consumer-safety/device-unlocking-policy
-Verizon,Prepaid,365,"Paid and active service for 365 days",Yes,Yes,0,"Not unlocked if device reported lost/stolen or fraud",https://www.verizon.com/about/consumer-safety/device-unlocking-policy
-AT&T,Business,60,"Device paid in full / installment balance zero",Yes,Eligible devices unlock automatically,0,"Early upgrade on 2-year contract may require 30-day wait",https://www.att.com/support/article/wireless/KM1008728
-T-Mobile,Postpaid,40,"If financed/leased, all payments satisfied and device paid in full",Yes,Yes,0,"Remote unlock within two business days once eligible",https://www.t-mobile.com/responsibility/consumer-info/policies/sim-unlock-policy
-T-Mobile,Prepaid,365,"If <365 days, account must have >$100 in refills and >14 days since purchase",Yes,Yes,0,"Max 2 unlocks per line in last 12 months",https://www.t-mobile.com/responsibility/consumer-info/policies/sim-unlock-policy
