@@ -36,3 +36,25 @@
 - Derived from: `kasipa/ai_selloff_credit_stress_windows_2023_2026.csv`
 - Post context: https://old.reddit.com/r/news/comments/1r4lflq/ailed_software_selloff_may_pose_risk_for_15/
 - Notes: quarterly share (%) of windows classified as Risk-off stress, Risk-on relief, and Mixed/neutral.
+
+### `kasipa/china_imports_from_africa_2023.csv`
+- Primary data source: TrendEconomy data explorer (annual trade by country, HS)
+  - Page: https://trendeconomy.com/data/h2/China/TOTAL
+  - Backend endpoint used for extraction: `https://trendeconomy.com/te.rest.web/json/key_family`
+- Build parameters used:
+  - reporter = China
+  - trade_flow = Import
+  - indicator = Trade Value (TV)
+  - commodity = TOTAL
+  - time_period = 2023
+- Notes: filtered to African partner countries from the returned partner-country rows.
+
+### `kasipa/china_imports_from_africa_2023_with_country_tariff_proxy.csv`
+- Base trade dataset: `kasipa/china_imports_from_africa_2023.csv`
+- Tariff proxy source: World Bank indicator API
+  - Indicator: `TM.TAX.MRCH.WM.AR.ZS` (Tariff rate, applied, weighted mean, all products, %)
+  - API docs root: https://api.worldbank.org/
+  - Example endpoint format: `https://api.worldbank.org/v2/country/{ISO3}/indicator/TM.TAX.MRCH.WM.AR.ZS?format=json`
+- Notes:
+  - Adds latest available country-level tariff value/year per country.
+  - This is a country-level proxy and not a China bilateral HS-line tariff schedule.
