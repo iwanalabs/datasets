@@ -58,3 +58,23 @@
 - Notes:
   - Adds latest available country-level tariff value/year per country.
   - This is a country-level proxy and not a China bilateral HS-line tariff schedule.
+
+### `kasipa/china_zero_tariff_opportunity_2023.csv`
+- Built from: `kasipa/china_imports_africa_tariff_quadrant.csv`
+- Upstream raw/indicator sources used in parent dataset:
+  - China import values by African partner (TrendEconomy):
+    - Page: https://trendeconomy.com/data/h2/China/TOTAL
+    - Backend endpoint: `https://trendeconomy.com/te.rest.web/json/key_family`
+  - Tariff proxy (World Bank):
+    - Indicator: `TM.TAX.MRCH.WM.AR.ZS`
+    - API root: https://api.worldbank.org/
+  - Export dependency proxy (World Bank):
+    - Indicator: `NE.EXP.GNFS.CD`
+    - API root: https://api.worldbank.org/
+- Post context:
+  - https://old.reddit.com/r/Economics/comments/1r549cv/china_to_implement_zero_tariffs_on_imports_from/
+- Notes:
+  - Adds derived fields for opportunity framing:
+    - `estimated_tariff_cost_usd_billion`
+    - `estimated_tariff_cost_usd`
+    - `opportunity_score`
