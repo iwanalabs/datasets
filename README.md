@@ -84,9 +84,12 @@
   - Global E-waste Monitor 2024 (UNITAR/ITU), Annex 2 country table
   - PDF: https://ewastemonitor.info/wp-content/uploads/2024/12/GEM_2024_EN_11_NOV-web.pdf
   - Landing page: https://ewastemonitor.info/the-global-e-waste-monitor-2024/
+- Additional joined source:
+  - World Bank GDP per capita (current US$), indicator `NY.GDP.PCAP.CD`
+  - API root: https://api.worldbank.org/
 - Notes:
   - Extracted from Annex 2 Table A2.4 (country-level key e-waste statistics, reference year 2022).
-  - Includes: generated total (million kg), generated per-capita (kg), documented formally collected/recycled (million kg, when available), and region.
+  - Includes: generated total (million kg), generated per-capita (kg), documented formally collected/recycled (million kg, when available), region, plus `gdp_per_capita_usd` and `gdp_per_capita_year`.
 
 ### `kasipa/atus_a8_2024_waking_hours_selected_characteristics.csv`
 - Primary source:
