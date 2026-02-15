@@ -1,0 +1,35 @@
+characteristic_group,characteristic,awake_time_total_hours,alone_hours,others_present_not_alone_hours,info_not_collected_hours,year,source_table
+Age,Total 15 years and over,14.96,6.66,7.40,0.90,2024,A-8
+Age,15 to 19 years,14.27,5.18,6.28,2.81,2024,A-8
+Age,20 to 24 years,14.41,5.73,7.84,0.83,2024,A-8
+Age,25 to 34 years,15.00,5.84,8.43,0.73,2024,A-8
+Age,35 to 44 years,15.31,6.05,8.54,0.71,2024,A-8
+Age,45 to 54 years,15.24,6.61,7.91,0.72,2024,A-8
+Age,55 to 64 years,15.11,7.60,6.76,0.75,2024,A-8
+Age,65 to 74 years,14.99,7.78,6.53,0.68,2024,A-8
+Age,75 years and over,14.66,8.31,5.60,0.75,2024,A-8
+Sex,Men,15.04,6.90,7.35,0.78,2024,A-8
+Sex,Women,14.89,6.44,7.45,1.01,2024,A-8
+Race or ethnicity,White,14.99,6.43,7.69,0.86,2024,A-8
+Race or ethnicity,Black or African American,14.88,8.22,5.57,1.10,2024,A-8
+Race or ethnicity,Asian,14.86,6.33,7.54,1.00,2024,A-8
+Race or ethnicity,Hispanic or Latino ethnicity,14.70,5.37,8.29,1.05,2024,A-8
+Employment status,Employed,15.20,6.34,8.05,0.81,2024,A-8
+Employment status,Full-time workers,15.30,6.31,8.24,0.76,2024,A-8
+Employment status,Part-time workers,14.82,6.44,7.36,1.02,2024,A-8
+Employment status,Not employed,14.57,7.23,6.29,1.05,2024,A-8
+Presence of children,No household children under 18,14.89,7.39,6.70,0.80,2024,A-8
+Presence of children,Household children under 18,15.11,5.21,8.80,1.09,2024,A-8
+Presence of children,Children 13 to 17 years none younger,15.19,6.06,7.69,1.44,2024,A-8
+Presence of children,Children 6 to 12 years none younger,15.05,5.86,8.12,1.07,2024,A-8
+Presence of children,Youngest child under 6 years,15.10,3.90,10.35,0.85,2024,A-8
+Marital status,Married spouse present,15.20,5.77,8.72,0.71,2024,A-8
+Marital status,Other marital statuses,14.73,7.58,6.05,1.10,2024,A-8
+Day type,Non-holiday weekdays,15.20,7.07,7.15,0.98,2024,A-8
+Day type,Weekends or holidays,14.41,5.70,7.98,0.72,2024,A-8
+Educational attainment 25+,Less than a high school diploma,14.50,5.96,7.81,0.73,2024,A-8
+Educational attainment 25+,High school graduates no college,14.90,6.71,7.49,0.70,2024,A-8
+Educational attainment 25+,Some college or associate degree,15.12,7.11,7.30,0.72,2024,A-8
+Educational attainment 25+,Bachelor’s degree and higher,15.29,7.06,7.48,0.75,2024,A-8
+Educational attainment 25+,Bachelor’s degree only,15.28,7.06,7.44,0.78,2024,A-8
+Educational attainment 25+,Advanced degree,15.30,7.07,7.53,0.70,2024,A-8

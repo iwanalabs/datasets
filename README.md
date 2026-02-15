@@ -87,3 +87,13 @@
 - Notes:
   - Extracted from Annex 2 Table A2.4 (country-level key e-waste statistics, reference year 2022).
   - Includes: generated total (million kg), generated per-capita (kg), documented formally collected/recycled (million kg, when available), and region.
+
+### `kasipa/atus_a8_2024_waking_hours_selected_characteristics.csv`
+- Primary source:
+  - U.S. Bureau of Labor Statistics (BLS), American Time Use Survey (ATUS)
+  - Table A-8: Waking hours spent alone or with others, by selected characteristics, 2024 annual averages
+  - PDF: https://www.bls.gov/tus/tables/a8-2024.pdf
+  - Tables index: https://www.bls.gov/tus/tables.htm
+- Notes:
+  - Manually transcribed from the A-8 table values in the source PDF.
+  - Contains selected rows for age, sex, race/ethnicity, employment status, household-children status, marital status, day type, and education.
