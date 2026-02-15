@@ -97,3 +97,16 @@
 - Notes:
   - Manually transcribed from the A-8 table values in the source PDF.
   - Contains selected rows for age, sex, race/ethnicity, employment status, household-children status, marital status, day type, and education.
+
+### `kasipa/china_imports_all_african_countries_2023_double_checked.csv`
+- Base import source:
+  - TrendEconomy China imports (reporter=China, trade_flow=Import, indicator=TV, commodity=TOTAL, time_period=2023)
+  - Page: https://trendeconomy.com/data/h2/China/TOTAL
+  - Backend endpoint used: `https://trendeconomy.com/te.rest.web/json/key_family`
+- Tariff context source (proxy):
+  - World Bank indicator `TM.TAX.MRCH.WM.AR.ZS` (country applied weighted mean tariff, all products)
+  - API root: https://api.worldbank.org/
+- Notes:
+  - Covers all 54 African Union member states with ISO3.
+  - Import values are China imports from each country in 2023; countries with no observed value in source are set to 0.
+  - Tariff column is a country-level proxy and **not** a China bilateral tariff schedule by partner/product line.
