@@ -78,3 +78,12 @@
     - `estimated_tariff_cost_usd_billion`
     - `estimated_tariff_cost_usd`
     - `opportunity_score`
+
+### `kasipa/global_ewaste_monitor_2024_country_2022.csv`
+- Primary source report:
+  - Global E-waste Monitor 2024 (UNITAR/ITU), Annex 2 country table
+  - PDF: https://ewastemonitor.info/wp-content/uploads/2024/12/GEM_2024_EN_11_NOV-web.pdf
+  - Landing page: https://ewastemonitor.info/the-global-e-waste-monitor-2024/
+- Notes:
+  - Extracted from Annex 2 Table A2.4 (country-level key e-waste statistics, reference year 2022).
+  - Includes: generated total (million kg), generated per-capita (kg), documented formally collected/recycled (million kg, when available), and region.
