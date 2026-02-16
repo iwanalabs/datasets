@@ -124,3 +124,11 @@
 - Notes:
   - Contains mixed historical rows (2000–2026 quarterly aggregates) and anchor projections from the article (debt-to-GDP and nominal growth/interest-rate assumptions).
   - Historical values are pulled as-is from FRED series CSV endpoints; projection points are manually aligned to article projections for charting context.
+
+### `kasipa/pertussis_dtp1_dtp3_coverage_1980_2024.csv`
+- Source endpoints (Our World in Data grapher, WHO/UNICEF 2025 and UN WPP 2024 variants):
+  - DTP1 coverage: `https://ourworldindata.org/grapher/vaccination-coverage-who-unicef.csv?antigen=dtpcv1&metric=coverage`
+  - DTP3 coverage: `https://ourworldindata.org/grapher/vaccination-coverage-who-unicef.csv?antigen=dtpcv3&metric=coverage`
+- Purpose: compare first-dose and third-dose pertussis vaccine coverage over time.
+- Post context to anchor the chart narrative: https://www.abc.net.au/news/2026-02-16/whooping-cough-cases-at-record-high-level-in-australia/106332954
+- Notes: includes global/WHO-region and selected-country rows, plus `dtp3_minus_dtp1_pct_gap` to show completion gap.

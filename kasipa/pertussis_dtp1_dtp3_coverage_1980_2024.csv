@@ -1,0 +1,1326 @@
+entity,code,year,dtp1_coverage_pct,dtp3_coverage_pct,dtp3_minus_dtp1_pct_gap,source
+Afghanistan,AFG,1980,22,4,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1981,,3,,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1982,24,5,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1983,24,5,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1984,39,16,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1985,37,15,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1986,32,11,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1987,50,25,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1988,60,35,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1989,58,33,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1990,50,25,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1991,47,23,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1992,45,21,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1993,41,18,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1994,33,12,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1995,44,20,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1996,56,31,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1997,48,28,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1998,48,27,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,1999,48,27,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2000,48,24,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2001,59,33,-26.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2002,62,36,-26.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2003,66,41,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2004,72,50,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2005,76,58,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2006,75,58,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2007,76,63,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2008,75,64,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2009,72,63,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2010,72,66,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2011,78,68,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2012,78,67,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2013,76,64,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2014,73,62,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2015,73,64,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2016,73,66,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2017,73,64,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2018,77,68,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2019,69,65,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2020,70,61,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2021,64,55,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2022,67,58,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2023,67,60,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Afghanistan,AFG,2024,66,59,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1980,13.973343,9.277582,-4.70,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1981,24.424484,14.022753,-10.40,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1982,27.987803,15.809792,-12.18,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1983,36.548447,22.322681,-14.23,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1984,46.523087,28.28405,-18.24,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1985,55.808353,36.268597,-19.54,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1986,60.50899,40.47252,-20.04,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1987,66.01218,46.72535,-19.29,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1988,69.22316,50.223446,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1989,73.92673,55.14232,-18.78,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1990,77.97964,59.972057,-18.01,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1991,71.53744,52.797005,-18.74,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1992,71.97338,53.439896,-18.53,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1993,72.33785,53.49583,-18.84,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1994,75.97087,57.248314,-18.72,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1995,74.65162,56.694935,-17.96,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1996,72.84964,54.872524,-17.98,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1997,76.2113,53.398884,-22.81,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1998,69.724915,52.287926,-17.44,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,1999,67.92872,53.581036,-14.35,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2000,68.69233,55.341278,-13.35,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2001,69.13796,56.129673,-13.01,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2002,70.072136,57.02368,-13.05,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2003,72.044495,59.634342,-12.41,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2004,73.69025,62.334972,-11.36,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2005,75.08247,65.328316,-9.75,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2006,76.98859,67.2315,-9.76,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2007,78.67156,68.79068,-9.88,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2008,80.451324,71.48086,-8.97,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2009,82.85332,74.411896,-8.44,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2010,80.73223,73.46686,-7.27,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2011,81.156395,74.61576,-6.54,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2012,78.23176,71.65287,-6.58,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2013,77.58163,71.83244,-5.75,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2014,80.16358,73.63328,-6.53,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2015,80.3845,73.12944,-7.26,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2016,82.51802,75.721985,-6.80,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2017,82.64666,76.03318,-6.61,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2018,83.676384,77.16519,-6.51,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2019,84.344025,78.16262,-6.18,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2020,82.71463,75.56682,-7.15,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2021,82.3017,74.68514,-7.62,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2022,82.004616,74.55958,-7.45,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa,,2023,82.90618,75.851456,-7.05,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1980,8,5,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1981,21,11,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1982,22,12,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1983,31,18,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1984,43,24,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1985,52,32,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1986,58,37,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1987,63,42,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1988,66,46,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1989,72,51,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1990,77,57,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1991,69,49,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1992,70,50,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1993,70,50,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1994,75,55,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1995,73,54,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1996,71,51,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1997,75,50,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1998,67,48,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,1999,65,49,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2000,66,51,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2001,66,52,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2002,68,53,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2003,70,56,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2004,72,59,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2005,73,62,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2006,76,65,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2007,77,66,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2008,79,70,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2009,82,73,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2010,80,71,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2011,79,72,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2012,76,69,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2013,75,69,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2014,78,71,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2015,78,70,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2016,81,73,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2017,81,74,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2018,82,75,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2019,83,76,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2020,81,74,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2021,81,73,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2022,80,72,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2023,83,75,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Africa (WHO),,2024,83,76,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1980,68,51,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1981,72,54,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1982,75,58,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1983,76,60,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1984,80,64,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1985,80,64,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1986,81,65,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1987,84,69,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1988,86,72,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1989,87,72,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1990,89,74,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1991,92,80,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1992,92,79,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1993,93,81,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1994,85,84,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1995,93,86,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1996,91,85,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1997,96,86,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1998,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,1999,97,90,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2000,97,91,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2001,96,91,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2002,96,92,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2003,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2004,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2005,98,94,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2006,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2007,96,94,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2008,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2009,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2010,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2011,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2012,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2013,95,91,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2014,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2015,97,91,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2016,96,91,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2017,94,87,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2018,92,88,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2019,89,84,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2020,89,81,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2021,87,81,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2022,90,83,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2023,90,86,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Americas (WHO),,2024,89,86,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1980,69,44,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1981,73,49,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1982,80,58,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1983,82,61,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1984,83,62,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1985,86,66,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1986,86,67,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1987,91,75,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1988,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1989,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1990,95,87,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1991,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1992,93,81,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1993,93,81,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1994,94,82,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1995,95,85,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1996,94,83,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1997,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1998,96,84,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,1999,96,86,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2000,96,83,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2001,96,83,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2002,96,93,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2003,96,96,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2004,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2005,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2006,93,91,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2007,94,91,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2008,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2009,94,94,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2010,95,94,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2011,94,91,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2012,94,91,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2013,94,94,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2014,98,94,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2015,94,94,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2016,93,92,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2017,94,88,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2018,91,86,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2019,87,83,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2020,79,74,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2021,88,81,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2022,90,84,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2023,77,66,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Argentina,ARG,2024,80,75,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1980,58,33,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1981,65,40,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1982,72,48,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1983,78,55,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1984,83,62,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1985,87,68,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1986,91,75,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1987,93,81,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1988,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1989,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1990,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1991,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1992,97,91,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1993,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1994,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1995,95,86,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1996,95,86,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1997,77,77,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1998,82,82,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,1999,88,88,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2000,90,90,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2001,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2002,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2003,93,93,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2004,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2005,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2006,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2007,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2008,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2009,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2010,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2011,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2012,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2013,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2014,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2015,93,93,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2016,94,94,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2017,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2018,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2019,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2020,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2021,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2022,94,94,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2023,94,94,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Australia,AUS,2024,93,93,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1980,62,37,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1981,72,47,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1982,79,56,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1983,82,60,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1984,87,68,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1985,86,66,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1986,80,58,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1987,80,58,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1988,80,58,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1989,79,56,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1990,86,66,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1991,92,78,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1992,88,71,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1993,91,75,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1994,50,74,24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1995,85,81,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1996,75,77,2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1997,99,79,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1998,99,93,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,1999,99,94,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2000,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2001,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2002,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2003,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2004,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2005,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2006,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2007,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2008,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2009,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2010,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2011,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2012,99,95,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2013,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2014,98,93,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2015,97,96,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2016,95,89,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2017,92,83,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2018,87,87,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2019,79,70,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2020,88,77,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2021,74,68,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2022,84,77,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2023,90,90,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Brazil,BRA,2024,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1987,95,85,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1988,95,86,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1989,95,87,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1990,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1991,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1992,96,89,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1993,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1994,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1995,97,87,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1996,98,90,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1997,95,86,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1998,95,90,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,1999,95,90,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2000,95,89,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2001,95,89,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2002,95,88,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2003,95,91,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2004,96,91,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2005,96,93,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2006,96,95,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2007,96,94,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2008,96,92,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2009,96,91,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2010,96,89,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2011,96,87,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2012,99,91,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2013,95,91,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2014,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2015,95,91,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2016,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2017,94,91,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2018,94,91,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2019,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2020,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2021,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2022,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2023,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Canada,CAN,2024,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1980,36,17,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1981,36,18,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1982,44,23,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1983,49,27,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1984,57,35,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1985,65,45,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1986,69,49,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1987,72,52,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1988,78,61,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1989,81,64,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1990,85,70,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1991,82,65,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1992,79,63,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1993,77,61,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1994,75,59,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1995,80,67,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1996,77,65,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1997,78,65,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1998,78,67,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,1999,79,70,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2000,80,71,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2001,82,73,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2002,81,73,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2003,83,75,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2004,84,77,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2005,84,76,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2006,83,74,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2007,83,74,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2008,83,74,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2009,82,74,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2010,83,75,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2011,86,78,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2012,86,77,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2013,85,78,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2014,86,79,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2015,86,79,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2016,85,81,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2017,87,82,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2018,88,83,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2019,89,84,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2020,87,81,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2021,87,81,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2022,90,84,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2023,86,80,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Eastern Mediterranean (WHO),,2024,85,79,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1981,21,3,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1982,21,3,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1983,22,4,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1984,22,4,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1985,25,6,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1986,27,7,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1987,39,16,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1988,39,16,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1989,51,26,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1990,73,49,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1991,45,21,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1992,35,13,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1993,53,28,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1994,80,57,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1995,80,57,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1996,78,55,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1997,78,55,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1998,61,42,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,1999,44,28,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2000,47,30,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2001,50,32,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2002,52,35,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2003,55,37,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2004,58,39,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2005,61,43,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2006,64,46,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2007,67,50,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2008,71,54,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2009,74,58,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2010,77,61,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2011,80,65,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2012,74,61,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2013,67,59,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2014,73,61,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2015,74,62,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2016,75,64,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2017,76,65,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2018,75,62,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2019,73,61,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2020,71,62,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2021,75,63,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2022,75,63,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2023,77,70,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Ethiopia,ETH,2024,81,73,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1980,30.68454,26.877947,-3.81,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1981,39.814972,35.907818,-3.91,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1982,41.166485,37.516827,-3.65,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1983,41.824448,38.283497,-3.54,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1984,45.938778,42.709396,-3.23,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1985,47.65969,43.012753,-4.65,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1986,49.544018,45.895065,-3.65,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1987,49.13144,44.483658,-4.65,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1988,48.822052,44.292477,-4.53,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1989,49.43989,45.82926,-3.61,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1990,56.27954,52.011955,-4.27,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1991,58.477905,54.914513,-3.56,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1992,91.29953,83.80669,-7.49,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1993,92.85087,85.174706,-7.68,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1994,95.69192,90.22687,-5.47,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1995,95.152214,89.27698,-5.88,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1996,95.80196,91.217,-4.58,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1997,95.851906,92.25377,-3.60,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1998,95.773506,92.7365,-3.04,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,1999,96.49463,94.70049,-1.79,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2000,96.16521,93.65355,-2.51,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2001,96.21881,94.59116,-1.63,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2002,96.27278,94.93218,-1.34,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2003,95.944275,94.71546,-1.23,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2004,96.34931,95.446014,-0.90,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2005,96.54497,95.54562,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2006,96.854744,96.13989,-0.71,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2007,96.86733,96.100464,-0.77,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2008,96.23989,95.68077,-0.56,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2009,95.137245,94.38012,-0.76,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2010,93.92054,93.24351,-0.68,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2011,93.95234,93.10296,-0.85,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2012,95.82465,94.882996,-0.94,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2013,95.567635,93.65562,-1.91,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2014,94.36978,90.48741,-3.88,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2015,94.39472,90.71346,-3.68,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2016,93.49178,90.33941,-3.15,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2017,94.91746,91.93416,-2.98,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2018,95.975655,93.081474,-2.89,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2019,96.00719,93.72514,-2.28,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2020,95.92834,93.43497,-2.49,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2021,95.97532,93.228325,-2.75,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2022,95.073235,92.673325,-2.40,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe,,2023,95.37271,92.87597,-2.50,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1980,70,63,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1981,80,75,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1982,80,75,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1983,80,75,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1984,84,79,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1985,86,78,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1986,85,76,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1987,87,78,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1988,86,77,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1989,85,76,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1990,90,80,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1991,92,84,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1992,94,85,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1993,92,81,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1994,95,88,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1995,94,86,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1996,95,89,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1997,96,91,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1998,96,92,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,1999,96,93,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2000,96,93,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2001,96,94,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2002,95,93,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2003,94,92,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2004,95,94,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2005,96,95,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2006,96,95,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2007,97,96,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2008,97,96,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2009,96,95,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2010,95,94,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2011,95,94,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2012,96,96,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2013,97,95,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2014,95,92,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2015,96,93,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2016,95,92,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2017,96,93,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2018,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2019,97,95,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2020,96,94,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2021,96,94,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2022,96,94,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2023,96,94,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Europe (WHO),,2024,95,93,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1980,92,79,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1981,92,79,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1982,95,85,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1983,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1984,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1985,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1986,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1987,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1988,92,79,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1989,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1990,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1991,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1992,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1993,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1994,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1995,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1996,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1997,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1998,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,1999,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2000,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2001,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2002,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2003,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2004,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2005,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2006,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2007,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2008,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2009,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2010,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2011,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2012,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2013,99,88,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2014,99,92,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2015,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2016,99,95,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2017,99,95,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2018,99,95,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2019,99,95,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2020,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2021,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2022,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2023,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+France,FRA,2024,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1981,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1982,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1983,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1984,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1985,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1986,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1987,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1988,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1989,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1990,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1991,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1992,95,85,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1993,83,62,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1994,90,73,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1995,92,78,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1996,94,84,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1997,95,87,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1998,95,89,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,1999,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2000,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2001,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2002,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2003,97,97,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2004,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2005,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2006,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2007,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2008,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2009,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2010,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2011,99,95,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2012,99,95,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2013,98,93,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2014,98,93,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2015,98,93,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2016,98,91,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2017,98,91,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2018,98,91,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2019,98,91,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2020,98,91,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2021,98,92,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2022,97,89,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2023,97,89,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Germany,DEU,2024,97,89,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1980,25,6,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1981,25,6,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1982,33,12,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1983,36,14,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1984,39,16,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1985,41,18,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1986,44,20,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1987,55,30,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1988,65,40,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1989,74,50,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1990,88,70,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1991,80,57,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1992,79,56,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1993,82,61,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1994,86,67,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1995,88,71,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1996,86,66,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1997,82,62,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1998,78,61,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,1999,74,59,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2000,74,58,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2001,75,59,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2002,75,59,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2003,76,61,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2004,77,63,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2005,82,65,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2006,81,65,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2007,81,64,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2008,81,70,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2009,84,74,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2010,86,79,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2011,89,82,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2012,89,82,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2013,90,83,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2014,90,85,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2015,90,87,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2016,91,88,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2017,92,89,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2018,93,90,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2019,94,91,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2020,87,85,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2021,88,85,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2022,95,93,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2023,93,91,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+India,IND,2024,96,94,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1981,18,1,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1982,18,1,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1983,25,6,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1984,35,13,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1985,52,27,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1986,72,47,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1987,74,50,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1988,77,54,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1989,80,57,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1990,82,60,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1991,83,62,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1992,84,64,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1993,86,66,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1994,87,68,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1995,87,69,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1996,89,72,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1997,90,73,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1998,88,74,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,1999,86,75,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2000,84,75,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2001,82,76,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2002,83,70,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2003,84,71,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2004,84,71,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2005,85,72,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2006,86,72,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2007,85,73,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2008,88,77,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2009,88,78,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2010,89,81,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2011,88,81,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2012,90,87,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2013,97,92,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2014,93,88,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2015,90,84,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2016,90,84,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2017,90,85,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2018,90,85,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2019,90,85,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2020,83,77,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2021,74,67,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2022,92,91,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2023,85,83,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Indonesia,IDN,2024,83,78,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1980,82,60,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1981,91,75,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1982,93,81,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1983,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1984,94,82,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1985,94,83,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1986,94,84,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1987,95,85,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1988,95,86,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1989,95,87,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1990,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1991,97,92,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1992,95,87,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1993,95,85,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1994,93,80,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1995,90,74,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1996,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1997,88,70,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1998,88,75,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,1999,88,80,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2000,88,85,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2001,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2002,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2003,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2004,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2005,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2006,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2007,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2008,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2009,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2010,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2011,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2012,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2013,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2014,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2015,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2016,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2017,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2018,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2019,98,98,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2020,96,96,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2021,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2022,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2023,98,98,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Japan,JPN,2024,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1984,80,58,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1985,88,70,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1986,89,72,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1987,91,77,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1988,92,82,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1989,92,83,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1990,92,84,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1991,92,86,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1992,96,87,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1993,96,89,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1994,96,92,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1995,96,94,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1996,96,87,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1997,96,79,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1998,93,81,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,1999,89,82,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2000,83,82,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2001,84,80,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2002,90,84,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2003,89,73,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2004,87,73,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2005,85,76,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2006,90,80,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2007,89,81,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2008,90,88,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2009,92,88,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2010,93,90,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2011,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2012,98,94,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2013,95,87,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2014,97,92,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2015,96,89,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2016,89,88,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2017,82,81,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2018,93,91,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2019,96,93,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2020,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2021,99,95,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2022,99,94,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2023,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Kenya,KEN,2024,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1980,69,44,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1981,68,43,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1982,65,40,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1983,66,41,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1984,76,52,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1985,65,40,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1986,75,51,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1987,83,62,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1988,82,60,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1989,85,65,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1990,77,53,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1991,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1992,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1993,94,82,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1994,97,91,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1995,97,91,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1996,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1997,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1998,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,1999,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2000,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2001,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2002,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2003,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2004,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2005,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2006,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2007,99,98,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2008,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2009,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2010,96,95,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2011,99,97,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2012,99,99,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2013,89,83,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2014,95,87,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2015,99,87,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2016,96,93,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2017,93,85,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2018,90,88,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2019,84,82,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2020,77,72,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2021,83,78,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2022,93,83,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2023,89,85,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Mexico,MEX,2024,83,78,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1984,29,9,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1985,39,16,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1986,46,22,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1987,54,29,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1988,61,36,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1989,72,47,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1990,79,56,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1991,64,39,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1992,68,43,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1993,54,29,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1994,69,44,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1995,59,34,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1996,51,26,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1997,70,21,-49.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1998,44,21,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,1999,44,31,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2000,44,29,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2001,43,27,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2002,43,25,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2003,45,29,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2004,46,33,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2005,48,36,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2006,49,40,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2007,52,42,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2008,63,53,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2009,73,63,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2010,60,56,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2011,53,53,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2012,39,36,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2013,41,39,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2014,46,43,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2015,49,42,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2016,62,53,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2017,65,55,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2018,69,61,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2019,72,66,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2020,70,62,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2021,67,61,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2022,63,59,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2023,71,67,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Nigeria,NGA,2024,71,67,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1980,75.746284,63.63553,-12.11,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1981,76.30077,64.361435,-11.94,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1982,75.96724,64.38099,-11.59,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1983,75.96259,64.98588,-10.98,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1984,79.16868,68.307556,-10.86,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1985,76.21345,64.7468,-11.47,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1986,80.61037,70.28656,-10.32,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1987,86.45963,76.47003,-9.99,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1988,87.997795,78.04501,-9.95,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1989,88.60216,78.223854,-10.38,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1990,86.72466,74.343544,-12.38,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1991,91.3313,81.63436,-9.70,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1992,90.98714,80.83972,-10.15,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1993,91.883415,82.035706,-9.85,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1994,93.18133,87.48879,-5.69,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1995,93.772446,87.996216,-5.78,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1996,93.78741,88.54651,-5.24,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1997,93.553154,89.43951,-4.11,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1998,94.06293,90.15993,-3.90,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,1999,94.817604,90.067535,-4.75,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2000,94.99694,89.74069,-5.26,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2001,94.713455,89.60701,-5.11,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2002,94.30048,90.04401,-4.26,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2003,95.19991,91.13705,-4.06,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2004,95.46597,91.68744,-3.78,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2005,95.808334,92.19747,-3.61,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2006,95.587845,92.38944,-3.20,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2007,95.12022,92.185486,-2.93,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2008,95.40236,92.02113,-3.38,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2009,94.76642,91.09521,-3.67,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2010,94.486855,91.35658,-3.13,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2011,95.02526,91.83607,-3.19,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2012,95.00584,92.1318,-2.87,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2013,92.47642,87.71075,-4.77,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2014,93.6179,88.38638,-5.23,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2015,95.57603,88.04007,-7.54,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2016,94.4938,90.388435,-4.11,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2017,93.15917,87.85557,-5.30,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2018,92.21691,88.40859,-3.81,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2019,90.57467,86.925316,-3.65,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2020,88.37116,83.40063,-4.97,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2021,89.575775,84.68911,-4.89,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2022,92.58123,86.16952,-6.41,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+North America,,2023,91.708824,87.15087,-4.56,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1980,20,2,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1981,21,3,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1982,24,5,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1983,37,15,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1984,47,23,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1985,55,30,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1986,59,34,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1987,61,36,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1988,63,38,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1989,65,40,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1990,77,54,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1991,74,50,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1992,67,42,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1993,62,37,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1994,64,39,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1995,73,58,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1996,62,46,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1997,65,52,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1998,66,54,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,1999,68,57,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2000,69,59,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2001,71,61,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2002,72,63,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2003,74,66,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2004,75,68,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2005,73,63,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2006,72,59,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2007,70,54,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2008,69,53,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2009,67,52,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2010,67,52,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2011,77,63,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2012,78,64,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2013,78,65,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2014,80,69,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2015,82,72,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2016,82,75,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2017,83,75,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2018,87,80,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2019,91,84,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2020,87,80,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2021,90,83,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2022,93,85,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2023,94,86,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Pakistan,PAK,2024,94,87,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1980,72,47,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1981,77,54,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1982,77,54,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1983,78,55,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1984,80,57,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1985,81,59,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1986,86,66,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1987,90,72,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1988,92,79,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1989,95,86,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1990,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1991,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1992,91,80,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1993,86,76,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1994,81,73,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1995,76,70,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1996,82,75,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1997,90,81,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1998,91,81,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,1999,91,80,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2000,92,78,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2001,92,79,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2002,84,79,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2003,86,84,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2004,92,88,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2005,91,89,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2006,90,88,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2007,90,87,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2008,91,87,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2009,92,88,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2010,92,88,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2011,93,89,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2012,94,89,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2013,90,85,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2014,87,80,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2015,83,76,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2016,87,84,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2017,87,84,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2018,87,84,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2019,87,84,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2020,87,83,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2021,70,69,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2022,87,84,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2023,91,89,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Philippines,PHL,2024,82,71,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1983,90,74,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1984,91,75,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1985,91,75,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1986,88,70,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1987,89,72,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1988,88,70,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1989,88,71,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1990,89,72,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1991,93,81,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1992,92,79,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1993,93,81,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1994,90,73,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1995,89,72,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1996,90,73,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1997,93,76,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1998,90,75,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,1999,88,74,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2000,85,73,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2001,82,71,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2002,80,70,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2003,77,69,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2004,80,74,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2005,83,81,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2006,94,84,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2007,95,85,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2008,93,82,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2009,81,81,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2010,80,77,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2011,80,75,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2012,72,71,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2013,81,81,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2014,88,85,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2015,91,85,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2016,88,85,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2017,85,84,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2018,84,82,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2019,87,85,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2020,88,84,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2021,91,86,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2022,87,85,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2023,81,79,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South Africa,ZAF,2024,76,74,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1980,58.522495,35.13651,-23.39,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1981,65.98798,42.443363,-23.54,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1982,71.71689,49.267147,-22.45,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1983,75.29189,53.36625,-21.93,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1984,79.30807,59.492393,-19.82,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1985,82.268616,61.919632,-20.35,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1986,78.97431,57.27675,-21.70,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1987,79.96241,58.808468,-21.15,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1988,82.25018,62.380806,-19.87,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1989,82.73006,62.69479,-20.04,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1990,88.08243,71.52581,-16.56,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1991,90.26454,75.858574,-14.41,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1992,89.44779,74.3386,-15.11,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1993,91.410286,77.837105,-13.57,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1994,72.24691,77.18845,4.94,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1995,89.26035,81.5194,-7.74,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1996,83.93813,78.72925,-5.21,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1997,95.31362,79.78393,-15.53,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1998,96.082794,83.782616,-12.30,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,1999,97.295586,88.35243,-8.94,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2000,96.50546,90.7119,-5.79,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2001,94.050995,89.77683,-4.27,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2002,95.71608,91.45592,-4.26,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2003,96.57635,93.39251,-3.18,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2004,95.947365,93.94241,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2005,97.50337,93.93154,-3.57,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2006,95.47719,93.56521,-1.91,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2007,94.485596,92.79605,-1.69,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2008,96.88852,91.67894,-5.21,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2009,96.40997,94.765755,-1.64,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2010,96.38229,93.569,-2.81,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2011,95.846794,92.7903,-3.06,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2012,95.68483,92.12327,-3.56,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2013,95.26507,92.48746,-2.78,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2014,95.28567,90.20131,-5.08,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2015,95.36525,92.58963,-2.78,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2016,94.20792,89.1084,-5.10,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2017,92.904366,84.27002,-8.63,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2018,89.1623,85.36475,-3.80,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2019,85.077644,77.5641,-7.51,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2020,86.01375,75.73587,-10.28,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2021,80.14414,73.357574,-6.79,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2022,83.81783,76.6863,-7.13,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South America,,2023,85.63206,82.35732,-3.27,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1980,22,7,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1981,26,7,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1982,32,11,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1983,35,14,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1984,38,16,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1985,43,20,-23.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1986,48,24,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1987,57,33,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1988,65,41,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1989,76,52,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1990,87,70,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1991,82,61,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1992,81,60,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1993,83,64,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1994,87,70,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1995,88,71,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1996,87,69,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1997,85,67,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1998,81,66,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,1999,78,65,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2000,78,64,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2001,79,65,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2002,79,65,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2003,79,67,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2004,81,69,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2005,84,70,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2006,84,71,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2007,84,70,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2008,84,75,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2009,87,78,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2010,88,82,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2011,90,84,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2012,90,85,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2013,92,86,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2014,92,87,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2015,91,88,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2016,92,89,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2017,93,90,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2018,94,90,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2019,94,91,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2020,88,86,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2021,86,83,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2022,95,93,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2023,92,90,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+South-East Asia (WHO),,2024,94,92,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1980,66,41,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1981,71,46,-25.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1982,77,53,-24.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1983,81,59,-22.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1984,85,65,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1985,85,65,-20.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1986,86,67,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1987,90,73,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1988,91,75,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1989,92,78,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1990,94,84,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1991,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1992,97,92,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1993,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1994,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1995,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1996,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1997,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1998,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,1999,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2000,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2001,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2002,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2003,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2004,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2005,91,91,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2006,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2007,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2008,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2009,93,93,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2010,94,94,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2011,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2012,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2013,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2014,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2015,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2016,94,94,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2017,94,94,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2018,94,94,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2019,93,93,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2020,93,93,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2021,93,93,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2022,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2023,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United Kingdom,GBR,2024,92,92,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1980,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1981,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1982,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1983,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1984,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1985,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1986,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1987,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1988,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1989,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1990,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1991,95,86,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1992,94,83,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1993,96,88,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1994,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1995,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1996,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1997,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1998,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,1999,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2000,99,94,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2001,98,94,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2002,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2003,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2004,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2005,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2006,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2007,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2008,99,96,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2009,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2010,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2011,98,96,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2012,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2013,98,94,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2014,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2015,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2016,98,95,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2017,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2018,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2019,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2020,97,93,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2021,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2022,98,94,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2023,98,94,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+United States,USA,2024,98,94,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1980,12,8,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1981,15,11,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1982,14,11,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1983,76,55,-21.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1984,84,67,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1985,89,73,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1986,89,74,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1987,89,73,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1988,96,90,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1989,97,92,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1990,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1991,96,92,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1992,95,88,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1993,94,86,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1994,93,84,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1995,91,80,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1996,93,83,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1997,93,83,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1998,93,83,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,1999,93,84,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2000,93,85,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2001,94,86,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2002,93,85,-8.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2003,94,87,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2004,95,88,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2005,95,88,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2006,97,92,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2007,97,92,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2008,97,95,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2009,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2010,97,96,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2011,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2012,98,97,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2013,97,94,-3.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2014,97,96,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2015,97,96,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2016,97,97,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2017,97,96,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2018,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2019,97,95,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2020,96,95,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2021,93,92,-1.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2022,95,95,0.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2023,93,91,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+Western Pacific (WHO),,2024,94,92,-2.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1980,30,20,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1981,35,23,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1982,38,25,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1983,55,37,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1984,61,44,-17.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1985,66,48,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1986,69,51,-18.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1987,74,55,-19.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1988,79,63,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1989,83,68,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1990,88,76,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1991,85,71,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1992,85,69,-16.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1993,84,69,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1994,85,72,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1995,86,72,-14.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1996,85,72,-13.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1997,86,71,-15.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1998,83,71,-12.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,1999,82,71,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2000,82,72,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2001,83,72,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2002,83,72,-11.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2003,84,74,-10.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2004,85,76,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2005,86,77,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2006,87,78,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2007,87,78,-9.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2008,88,81,-7.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2009,89,83,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2010,89,83,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2011,89,84,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2012,89,84,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2013,89,83,-6.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2014,89,85,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2015,89,85,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2016,90,86,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2017,90,86,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2018,90,86,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2019,90,86,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2020,88,83,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2021,87,82,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2022,89,85,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2023,89,84,-5.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
+World,OWID_WRL,2024,89,85,-4.00,Our World in Data (WHO/UNICEF 2025); UN WPP 2024
