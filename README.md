@@ -113,3 +113,14 @@
   - Covers all 54 African Union member states with ISO3.
   - Import values are China imports from each country in 2023; countries with no observed value in source are set to 0.
   - Tariff column is a country-level proxy and **not** a China bilateral tariff schedule by partner/product line.
+
+### `kasipa/us_debt_spiral_projection_2025_2036.csv`
+- Primary context thread: https://old.reddit.com/r/Economics/comments/1r5tmu0/a_us_debt_spiral_could_start_soon_as_the_interest/
+- Base source article: https://fortune.com/2026/02/14/us-debt-spiral-interest-rate-treasury-bond-yields-economic-growth-gdp/
+- Macro source series (FRED):
+  - Debt-to-GDP proxy: https://fred.stlouisfed.org/series/GFDEGDQ188S
+  - Nominal GDP index: https://fred.stlouisfed.org/series/GDPC1
+  - 10Y Treasury proxy: https://fred.stlouisfed.org/series/DGS10
+- Notes:
+  - Contains mixed historical rows (2000–2026 quarterly aggregates) and anchor projections from the article (debt-to-GDP and nominal growth/interest-rate assumptions).
+  - Historical values are pulled as-is from FRED series CSV endpoints; projection points are manually aligned to article projections for charting context.
