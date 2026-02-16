@@ -132,3 +132,21 @@
 - Purpose: compare first-dose and third-dose pertussis vaccine coverage over time.
 - Post context to anchor the chart narrative: https://www.abc.net.au/news/2026-02-16/whooping-cough-cases-at-record-high-level-in-australia/106332954
 - Notes: includes global/WHO-region and selected-country rows, plus `dtp3_minus_dtp1_pct_gap` to show completion gap.
+
+### `kasipa/taklamakan_climate_monthly_2000_2025.csv`
+- Primary source: NASA POWER MERRA-2 Monthly Point Data API
+  - Endpoint: `https://power.larc.nasa.gov/api/temporal/monthly/point`
+- Parameters used: `T2M` (2m temperature), `PRECTOTCORR` (precipitation), `EVPTRNS` (evapotranspiration)
+- Point location used: Taklamakan Desert center (40.5°N, 84.9°E)
+- Window: 2000–2025
+- Notes: includes seasonal tagging (`Wet (Jul-Sep)` vs `Dry (Oct-Jun)`) for a climate-regime comparison tied to restoration timing discussion in the Taklamakan restoration literature.
+
+### `kasipa/taklamakan_climate_seasonal_annual_2000_2025.csv`
+- Derived from: `kasipa/taklamakan_climate_monthly_2000_2025.csv`
+- Source API call example:
+  - `https://power.larc.nasa.gov/api/temporal/monthly/point?parameters=T2M,PRECTOT,EVPTRNS&community=AG&longitude=84.9&latitude=40.5&start=2000&end=2025&format=JSON`
+- Derived fields:
+  - `wet_season_precip_mm_per_day`: mean monthly precip in Jul-Sep
+  - `dry_season_precip_mm_per_day`: mean monthly precip in Oct-Jun
+  - `wet_minus_dry_precip_mm_per_day`: seasonal contrast (wet-dry) for regime strength
+- Angle: track whether the wet-season advantage has strengthened as a practical framing clue for afforestation feasibility.
