@@ -150,3 +150,13 @@
   - `dry_season_precip_mm_per_day`: mean monthly precip in Oct-Jun
   - `wet_minus_dry_precip_mm_per_day`: seasonal contrast (wet-dry) for regime strength
 - Angle: track whether the wet-season advantage has strengthened as a practical framing clue for afforestation feasibility.
+
+### `kasipa/japan_growth_trade_fx_1990_2025.csv`
+- Core sources (World Bank API, indicator endpoint):
+  - GDP growth (annual %): `https://api.worldbank.org/v2/country/JPN;USA/indicator/NY.GDP.MKTP.KD.ZG?format=json`
+  - Exports of goods and services (current US$): `https://api.worldbank.org/v2/country/JPN;USA/indicator/NE.EXP.GNFS.CD?format=json`
+  - Official exchange rate (JPY per US$): `https://api.worldbank.org/v2/country/JPN/indicator/PA.NUS.FCRF?format=json`
+- Country set: Japan (JPN) and United States (USA)
+- Window: 1990–2025
+- Notes: derived exports YoY growth for both Japan and U.S., plus JPY-per-USD to test the “Japan weak-growth + soft yen + export cooling” narrative from a macro lens.
+- Posted context candidate: `https://old.reddit.com/r/Economics/comments/1r6afvv/japans_economy_barely_grows_in_the_last_quarter/`
