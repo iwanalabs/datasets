@@ -205,3 +205,12 @@
   - Full 70-city Dec 2025 coverage from official NBS table values.
   - Columns include NBS indices (`mom_index_last_month_100`, `yoy_index_same_month_last_year_100`, `avg_index_jan_dec_last_year_100`) and derived percentage-point deltas vs 100 (`mom_change_percent`, `yoy_change_percent`).
   - Includes one extra aggregate row: `China (simple average across 70 cities)` computed directly from NBS Table I city indices (unweighted mean; clearly labeled as derived, not an official NBS weighted national headline index).
+
+### `kasipa/china_new_home_prices_nbs_dec2025_all_70_cities_with_population_2020_census.csv`
+- Base housing source:
+  - NBS Table I (same as file above): `https://www.stats.gov.cn/english/PressRelease/202601/t20260119_1962346.html`
+- Population source (2020 census basis):
+  - China Seventh National Census city-level urban aggregates as compiled on CityPopulation (explicitly citing NBS census web tables): `https://www.citypopulation.de/en/china/cities/`
+- Notes:
+  - Adds `population_2020_census` to the 70-city housing rows.
+  - 4 cities currently have blank population due absence in the cited urban-aggregate table cutoff: `Anqing`, `Beihai`, `Sanya`, `Dali`.
