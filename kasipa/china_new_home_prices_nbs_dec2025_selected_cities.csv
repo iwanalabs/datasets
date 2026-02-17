@@ -1,0 +1,13 @@
+city,period,mom_index_last_month_100,yoy_index_same_month_last_year_100,mom_change_percent,yoy_change_percent,source
+Beijing,2025-12,99.6,97.6,-0.4,-2.4,NBS official table I
+Tianjin,2025-12,99.4,97.0,-0.6,-3.0,NBS official table I
+Shanghai,2025-12,100.2,104.8,0.2,4.8,NBS official table I
+Guangzhou,2025-12,99.4,95.2,-0.6,-4.8,NBS official table I
+Shenzhen,2025-12,99.5,95.6,-0.5,-4.4,NBS official table I
+Chongqing,2025-12,99.7,97.1,-0.3,-2.9,NBS official table I
+Wuhan,2025-12,100.0,96.6,0.0,-3.4,NBS official table I
+Nanjing,2025-12,100.0,97.5,0.0,-2.5,NBS official table I
+Hangzhou,2025-12,99.7,102.2,-0.3,2.2,NBS official table I
+Chengdu,2025-12,99.3,98.2,-0.7,-1.8,NBS official table I
+Xi’an,2025-12,99.5,94.4,-0.5,-5.6,NBS official table I
+Kunming,2025-12,99.4,94.2,-0.6,-5.8,NBS official table I

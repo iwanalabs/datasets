@@ -184,3 +184,13 @@
 - Notes:
   - Strictly 2025 values only (December snapshot).
   - Compact dataset intended for quick Kasipa charting.
+
+### `kasipa/china_new_home_prices_nbs_dec2025_selected_cities.csv`
+- Official NBS source (primary):
+  - National Bureau of Statistics of China, Press Release (English):
+  - `https://www.stats.gov.cn/english/PressRelease/202601/t20260119_1962346.html`
+- Extraction basis:
+  - Table I: "Sales Price Indices of Newly Constructed Commercial Residential Buildings in 70 Large and Medium-Sized Cities"
+- Notes:
+  - Uses official NBS index values for Dec 2025 (`Last Month=100` and `Same Month Last Year=100`) for selected cities.
+  - Includes derived percent changes (`mom_change_percent`, `yoy_change_percent`) computed as index minus 100.
