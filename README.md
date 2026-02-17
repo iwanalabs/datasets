@@ -194,3 +194,13 @@
 - Notes:
   - Uses official NBS index values for Dec 2025 (`Last Month=100` and `Same Month Last Year=100`) for selected cities.
   - Includes derived percent changes (`mom_change_percent`, `yoy_change_percent`) computed as index minus 100.
+
+### `kasipa/china_new_home_prices_nbs_dec2025_all_70_cities.csv`
+- Official NBS source (primary):
+  - National Bureau of Statistics of China, Press Release (English):
+  - `https://www.stats.gov.cn/english/PressRelease/202601/t20260119_1962346.html`
+- Extraction basis:
+  - Table I: "Sales Price Indices of Newly Constructed Commercial Residential Buildings in 70 Large and Medium-Sized Cities"
+- Notes:
+  - Full 70-city Dec 2025 coverage from official NBS table values.
+  - Columns include NBS indices (`mom_index_last_month_100`, `yoy_index_same_month_last_year_100`, `avg_index_jan_dec_last_year_100`) and derived percentage-point deltas vs 100 (`mom_change_percent`, `yoy_change_percent`).
