@@ -160,3 +160,27 @@
 - Window: 1990–2025
 - Notes: derived exports YoY growth for both Japan and U.S., plus JPY-per-USD to test the “Japan weak-growth + soft yen + export cooling” narrative from a macro lens.
 - Posted context candidate: `https://old.reddit.com/r/Economics/comments/1r6afvv/japans_economy_barely_grows_in_the_last_quarter/`
+
+### `kasipa/china_new_home_prices_70cities_jan2026_snapshot.csv`
+- Primary monthly aggregate source (NBS series mirror):
+  - TradingEconomics China housing index page: `https://tradingeconomics.com/china/housing-index`
+- Official release summary source (tier-level January MoM moves):
+  - SCIO/Xinhua summary: `http://english.scio.gov.cn/pressroom/2026-02/13/content_118333097.html`
+  - China.org mirror: `http://www.china.org.cn/2026-02/13/content_118333030.shtml`
+- City-level January YoY examples + breadth signal source references:
+  - TradingEconomics news text block on the same indicator page (Guangzhou, Shenzhen, Chongqing, Tianjin, Beijing, Shanghai)
+  - Reuters report URL (for 62/70 vs 58/70 breadth context): `https://www.reuters.com/world/asia-pacific/chinas-new-home-prices-extend-decline-january-2026-02-13/`
+- Notes:
+  - This is a compact snapshot dataset for fast visualization, not a full official 70-city January table export.
+  - Includes national aggregate, selected major-city YoY points, tier-level January MoM, and a market-breadth count.
+
+### `kasipa/china_new_home_prices_2025_only.csv`
+- Primary monthly aggregate source (NBS series mirror):
+  - TradingEconomics China housing index page: `https://tradingeconomics.com/china/housing-index`
+- City-level Dec 2025 YoY examples:
+  - TradingEconomics indicator news text on the same page (Guangzhou, Shenzhen, Tianjin, Chongqing, Beijing, Shanghai)
+- Market breadth context (Dec 2025):
+  - Reuters report URL (58 of 70 cities declining): `https://www.reuters.com/world/asia-pacific/chinas-new-home-prices-extend-decline-january-2026-02-13/`
+- Notes:
+  - Strictly 2025 values only (December snapshot).
+  - Compact dataset intended for quick Kasipa charting.

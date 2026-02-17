@@ -1,0 +1,22 @@
+entity_type,entity,period,metric,value,unit,source
+national,China (70-city aggregate),2025-12,new_home_price_mom,-0.4,percent,TradingEconomics (NBS 70-city)
+national,China (70-city aggregate),2026-01,new_home_price_mom,-0.4,percent,TradingEconomics (NBS 70-city)
+national,China (70-city aggregate),2025-12,new_home_price_yoy,-2.7,percent,TradingEconomics (NBS 70-city)
+national,China (70-city aggregate),2026-01,new_home_price_yoy,-3.1,percent,TradingEconomics (NBS 70-city)
+city,Guangzhou,2025-12,new_home_price_yoy,-4.8,percent,TradingEconomics news text
+city,Guangzhou,2026-01,new_home_price_yoy,-5.3,percent,TradingEconomics news text
+city,Shenzhen,2025-12,new_home_price_yoy,-4.4,percent,TradingEconomics news text
+city,Shenzhen,2026-01,new_home_price_yoy,-4.9,percent,TradingEconomics news text
+city,Chongqing,2025-12,new_home_price_yoy,-2.9,percent,TradingEconomics news text
+city,Chongqing,2026-01,new_home_price_yoy,-3.5,percent,TradingEconomics news text
+city,Tianjin,2025-12,new_home_price_yoy,-3.0,percent,TradingEconomics news text
+city,Tianjin,2026-01,new_home_price_yoy,-4.0,percent,TradingEconomics news text
+city,Beijing,2025-12,new_home_price_yoy,-2.4,percent,TradingEconomics news text
+city,Beijing,2026-01,new_home_price_yoy,-2.4,percent,TradingEconomics news text
+city,Shanghai,2025-12,new_home_price_yoy,4.8,percent,TradingEconomics news text
+city,Shanghai,2026-01,new_home_price_yoy,4.2,percent,TradingEconomics news text
+tier,First-tier cities average,2026-01,new_home_price_mom,-0.3,percent,Xinhua/SCIO (NBS release summary)
+tier,Second-tier cities average,2026-01,new_home_price_mom,-0.3,percent,Xinhua/SCIO (NBS release summary)
+tier,Third-tier cities average,2026-01,new_home_price_mom,-0.4,percent,Xinhua/SCIO (NBS release summary)
+market_breadth,Cities with new-home price decline (count),2025-12,new_home_price_decline_cities,58,count,Reuters report
+market_breadth,Cities with new-home price decline (count),2026-01,new_home_price_decline_cities,62,count,Reuters report
