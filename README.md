@@ -274,3 +274,16 @@
     - `customs_duties_yoy_pct`
     - `imports_yoy_pct`
     - `duty_intensity_yoy_change_pp`
+
+### `kasipa/tesla_recalls_ota_share_by_model_year_2020_2026.csv`
+- Primary source (NHTSA recalls API):
+  - Endpoint template: `https://api.nhtsa.gov/recalls/recallsByVehicle?make=TESLA&model={MODEL}&modelYear={YEAR}`
+  - Example: `https://api.nhtsa.gov/recalls/recallsByVehicle?make=TESLA&model=MODEL%20Y&modelYear=2025`
+- Context thread:
+  - `https://old.reddit.com/r/technology/comments/1ra7jkz/youtuber_mkbhd_says_tesla_stopped_talking_to_me/`
+- Notes:
+  - Covers Tesla models `MODEL Y`, `MODEL 3`, `MODEL S`, `MODEL X`, and `CYBERTRUCK` for model years 2020–2026.
+  - Includes derived fields:
+    - `ota_recall_count`
+    - `ota_share_pct`
+  - Some model-year combinations are not valid in NHTSA API and return HTTP 400; those rows are retained with zero counts and a `query_error` value for transparency.
