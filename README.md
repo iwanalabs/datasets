@@ -214,3 +214,47 @@
 - Notes:
   - Adds `population_2020_census` to the 70-city housing rows.
   - 4 cities currently have blank population due absence in the cited urban-aggregate table cutoff: `Anqing`, `Beihai`, `Sanya`, `Dali`.
+
+### `kasipa/cost_wmt_tgt_indexed_1y_daily.csv`
+- Price history source (Stooq CSV endpoints):
+  - Costco (COST): `https://stooq.com/q/d/l/?s=cost.us&i=d`
+  - Walmart (WMT): `https://stooq.com/q/d/l/?s=wmt.us&i=d`
+  - Target (TGT): `https://stooq.com/q/d/l/?s=tgt.us&i=d`
+- Context thread:
+  - `https://old.reddit.com/r/Economics/comments/1r7bmug/costco_defied_trumps_dei_directive_as_target_and/`
+- Notes:
+  - Daily intersection of trading dates across all three tickers.
+  - Includes raw close (`*_close_usd`) and normalized series (`*_indexed_100`) using the first date in the 1-year window as base=100.
+
+### `kasipa/cost_wmt_tgt_indexed_1y_summary.csv`
+- Derived from: `kasipa/cost_wmt_tgt_indexed_1y_daily.csv`
+- Notes:
+  - Compact per-ticker return summary over the same normalized window (`indexed_return_pct`).
+
+### `kasipa/prediction_markets_cross_platform_top_markets_snapshot.csv`
+- Platform API sources:
+  - Polymarket Gamma API: `https://gamma-api.polymarket.com/markets?closed=false&limit=500`
+  - Manifold Markets API: `https://api.manifold.markets/v0/markets?limit=1000`
+- Context thread:
+  - `https://old.reddit.com/r/worldnews/comments/1r71uvi/new_zealand_declares_prediction_markets_are/`
+- Notes:
+  - Snapshot file (single pull timestamp) with top markets by sampled volume from each platform.
+  - Includes standardized columns: `volume_usd`, `liquidity_usd`, resolution state, and market URL.
+
+### `kasipa/prediction_markets_cross_platform_activity_summary_snapshot.csv`
+- Derived from: `kasipa/prediction_markets_cross_platform_top_markets_snapshot.csv` (same snapshot run)
+- Notes:
+  - Platform-level aggregate sample metrics (`sample_total_volume_usd`, `sample_total_liquidity_usd`, median volume, markets sampled).
+
+### `kasipa/us_import_price_vs_cpi_monthly_2018_2026.csv`
+- Primary source (FRED combined CSV endpoint):
+  - `https://fred.stlouisfed.org/graph/fredgraph.csv?id=IR14200,CPIAUCSL`
+- Underlying series pages:
+  - U.S. Import Price Index: All Commodities (`IR14200`): `https://fred.stlouisfed.org/series/IR14200`
+  - CPI for All Urban Consumers: All Items (`CPIAUCSL`): `https://fred.stlouisfed.org/series/CPIAUCSL`
+- Notes:
+  - Monthly rows filtered to `2018-01-01` onward where both series are present.
+  - Includes derived fields:
+    - `import_price_yoy_pct`
+    - `cpi_yoy_pct`
+    - `gap_import_minus_cpi_yoy_pp`
