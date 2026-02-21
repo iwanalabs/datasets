@@ -258,3 +258,19 @@
     - `import_price_yoy_pct`
     - `cpi_yoy_pct`
     - `gap_import_minus_cpi_yoy_pp`
+
+### `kasipa/us_customs_duties_vs_imports_quarterly_1990_2026.csv`
+- Primary source (FRED combined CSV endpoint):
+  - `https://fred.stlouisfed.org/graph/fredgraph.csv?id=B235RC1Q027SBEA,IMPGS`
+- Underlying series pages:
+  - Federal government current tax receipts: customs duties (`B235RC1Q027SBEA`): `https://fred.stlouisfed.org/series/B235RC1Q027SBEA`
+  - Imports of goods and services (`IMPGS`): `https://fred.stlouisfed.org/series/IMPGS`
+- Context thread:
+  - `https://old.reddit.com/r/news/comments/1r9xrq7/supreme_court_strikes_down_most_of_trumps_tariffs/`
+- Notes:
+  - Quarterly rows filtered to `1990-01-01` onward where both series are present.
+  - Includes derived fields:
+    - `customs_duties_to_imports_pct`
+    - `customs_duties_yoy_pct`
+    - `imports_yoy_pct`
+    - `duty_intensity_yoy_change_pp`
